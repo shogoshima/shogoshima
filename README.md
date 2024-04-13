@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-- 🌱 I’m currently learning **C, C++, Python, Javascript, React, and practicing Competitive Programming**
+- 🌱 I’m currently learning **C, C++, Java, Javascript, React, Express, and practicing Competitive Programming**
 
 - 📫 How to reach me **shogoshima@usp.br**
 
@@ -35,13 +35,18 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> </a> 
   <img width="12" />
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node logo"  /> </a> 
+  <img width="12" />
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  /> </a> 
+  <img width="12" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
+  <img width="12" />
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> </a> 
   <img width="12" />
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
   <img width="12" />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 </div>
 
 ###
@@ -49,8 +54,8 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <a href="https://instagram.com/shima_shogo" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> </a>
   <a href="https://codeforces.com/profile/sshogo" target="_blank" rel="noreffer"> <img src="https://img.shields.io/static/v1?message=CodeForces&logo=codeforces&label=&color=445f9d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  /> </a>
-  <a href="shogoshima target="_blank" rel="noreffer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
-  <a href="shogoshima@usp.br target="_blank" rel="noreffer"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+  <a href="https://discordapp.com/users/shogoshima" target="_self" rel="noreffer"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+  <a href="mailto:shogoshima@usp.br" target="_blank" rel="noreffer"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
   <a href="https://br.linkedin.com/in/shogo-shima-36022a212" target="_blank" ref="noreffer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
