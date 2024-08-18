@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-- 🌱 I’m currently learning **C, C++, Java, Javascript, React, Express, and practicing Competitive Programming**
+- 🌱 I’m currently learning **C++, React Native, Java, Flutter, and practicing Competitive Programming**
 
 - 📫 How to reach me **shogoshima@usp.br**
 
