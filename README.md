@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-- 🌱 I’m currently learning **C++, React Native, Java, Flutter, and practicing Competitive Programming**
+- 🌱 I’m currently learning **C++, React Native, Flutter, and practicing Competitive Programming**
 
 - 📫 How to reach me **shogoshima@usp.br**
 
@@ -46,6 +46,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
   <img width="12" />
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
+  <img width="12" />
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> </a> 
   <img width="12" />
 </div>
 
