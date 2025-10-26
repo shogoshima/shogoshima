@@ -70,6 +70,12 @@ shogoshima/shogoshima is a ✨ special ✨ repository because its `README.md` (t
   <a href="https://nginx.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
   </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40"/>
+  </a>
 
   <br>
   <b>Other Languages:</b>
