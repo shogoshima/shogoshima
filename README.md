@@ -3,10 +3,10 @@ shogoshima/shogoshima is a ✨ special ✨ repository because its `README.md` (t
 -->
 
 <h1 align="center">Hi there 👋, I'm Shogo</h1>
-<h3 align="center">CS Student @ University of São Paulo | SWE Intern @ BTG Pactual</h3>
+<h3 align="center">CS Student @ University of São Paulo | SWE @ NG.CASH</h3>
 
 <p align="center">
-  ⚙️ Building scalable solutions through <b>Backend Development</b> in <b>.NET</b><br>
+  ⚙️ Building scalable solutions through <b>Fullstack Development</b> in <b>Typescript</b><br>
   🌱 Exploring <b>C++</b>, <b>Flutter</b>, and <b>Go</b> <br>
   ⚡ Practicing <b>Competitive Programming</b> <br>
   📫 Reach me at <b>shogoshima@usp.br</b>
